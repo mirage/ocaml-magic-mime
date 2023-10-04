@@ -1,3 +1,8 @@
+v1.3.1 2023-10-04
+-----------------
+
+* Add WebAssembly (wasm) mime type (@vouillon #28, fixes #27 reported by @glondu)
+
 v1.3.0 2022-10-31
 -----------------
 
